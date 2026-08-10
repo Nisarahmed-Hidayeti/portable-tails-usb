@@ -1,5 +1,7 @@
 # Portable CachyOS USB
 
+##!!!IT DIDNT WORK i am gonna try again
+
 Today I installed CachyOS on a 32 GB USB drive, which means I can now carry my entire operating system in my pocket.
 
 ## How I did it
