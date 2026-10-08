@@ -78,6 +78,7 @@ Once the USB has been created:
 5. Tails should start from the USB instead of the computer's internal drive.
 
 some how suddenly just broke i cant boot into my tails os
++ for example i wanna use my 32 gb flash drive tails os i simply can but i cant add any file anymore i cant connect a pc and use it as a normal drive 
 
 > [!TIP]
 > If the USB does not appear in the boot menu, check that the USB was created correctly and check your computer manufacturer's documentation for the correct boot-menu key.
