@@ -77,5 +77,7 @@ Once the USB has been created:
 4. Select the USB drive from the boot menu.
 5. Tails should start from the USB instead of the computer's internal drive.
 
+some how suddenly just broke i cant boot into my tails os
+
 > [!TIP]
 > If the USB does not appear in the boot menu, check that the USB was created correctly and check your computer manufacturer's documentation for the correct boot-menu key.
